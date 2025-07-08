@@ -32,6 +32,17 @@
       "time": "11:00",
       "petsAllowed": false,
       "organizer": "Carey Wales"
+    },
+    {
+      "id": 1234567,
+      "category": "technology",
+      "title": "Tech Meetup",
+      "description": "A gathering for tech enthusiasts to network and share ideas.",
+      "location": "Innovation Hub",
+      "date": "August 15, 2025",
+      "time": "18:00",
+      "petsAllowed": false,
+      "organizer": "Alex Byte"
     }
   ]
 }
